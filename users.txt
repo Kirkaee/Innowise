@@ -1,0 +1,3 @@
+Ivan;Pupkin;pup@mail.ru;[ADMIN];[375255084583]
+Kirill;Beliatski;kirkaee@mail.ru;[SUPER_ADMIN];[375255084580]
+qwe;qwe;qwe@mail.ru;[ADMIN];[375249879898]
